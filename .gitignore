@@ -1,0 +1,2 @@
+pretrained_models/imagenet/PIDNet_S_ImageNet.pth.tar
+pretrained_models/cityscapes/PIDNet_S_Cityscapes_test.pt
